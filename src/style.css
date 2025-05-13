@@ -1,0 +1,11 @@
+:root {
+  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+}
+
+@import "tailwindcss";
+
+@theme inline {
+  --gridTemplateColumns: {
+    '70/30': '70% 30%'
+  }
+}

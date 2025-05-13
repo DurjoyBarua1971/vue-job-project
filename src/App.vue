@@ -1,3 +1,9 @@
+<script setup>
+
+</script>
+
 <template>
-  <h1>Vue Jobs</h1>
+  <h1 class="bg-black text-white">Hello World</h1>
+
 </template>
+
